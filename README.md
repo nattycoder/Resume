@@ -5,8 +5,8 @@ Welcome to my GitHub resume repository! This repository contains my professional
 ## 📄 Resume
 
 You can view my resume in the following formats:
-- [PDF Version](resume.pdf)
-- [LaTeX Source](resume.tex)
+- [PDF Version](./Files/resume.pdf)
+- [LaTeX Source](./Files/resume.tex)
 
 ## 🚀 Quick Links
 
