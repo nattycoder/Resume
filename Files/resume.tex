@@ -1,0 +1,140 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-0.5in}
+\addtolength{\textheight}{1.0in}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust section formats for ATS compatibility
+\titleformat{\section}{\large\bfseries\uppercase}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{5pt}{3pt}
+
+% Ensure PDF compatibility
+\pdfgentounicode=1
+
+% Define custom commands for consistent formatting
+\newcommand{\resumeItem}[1]{
+  \item\small{#1}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*,label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+\begin{center}
+    {\Huge \textbf{Alaa Eddine Ayedi}} \\
+    \small
+    Sfax, Tunisia | +216-20468880 | alaa.ayedi.personal@gmail.com \\
+    \href{https://www.linkedin.com/in/alaaeddineayedi/}{LinkedIn} |
+    \href{https://github.com/nattycoder}{GitHub} |
+    \href{https://medium.com/@alaayedi090}{Medium}
+\end{center}
+
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {National School of Electronics and Telecommunications}{Tunisia, Sfax}
+    {Master of Science in Network and Telecommunications Engineering}{Expected 2025}
+  \resumeSubheading
+    {National School of Electronics and Telecommunications}{Tunisia, Sfax}
+    {Bachelor of Science in Information and Communication Technology}{2019 -- 2022}
+\resumeSubHeadingListEnd
+
+\section{Work Experience}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Spark-it}{Tunisia, Sfax}
+    {Security Operations Intern}{06/2024 -- 08/2024}
+    \resumeItemListStart
+        \resumeItem{Engineered a custom SIEM solution, reducing false positive alerts by 30\%}
+        \resumeItem{Deployed 5+ network security services and integrated them with the SIEM server}
+        \resumeItem{Developed a network activity dashboard for real-time monitoring of 20+ endpoints}
+        \resumeItem{Configured an IDS capable of identifying 98\% of known threat signatures}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+\section{Projects}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Self-Hosted Services on Home Server}{\href{https://github.com/nattycoder/self-host}{GitHub}}
+    {Proxmox VE, TrueNAS, Pi-Hole, Wireguard VPN, Nginx Proxy Manager}{09/2024}
+    \resumeItemListStart
+        \resumeItem{Built a home server infrastructure supporting 4+ users with 99.9\% uptime}
+        \resumeItem{Implemented 6 self-hosted services, reducing third-party reliance by 80\%}
+        \resumeItem{Optimized 3 VMs and 7 LXC containers, improving system performance by 40\%}
+    \resumeItemListEnd
+  \resumeSubheading
+    {SOAR EDR}{\href{https://github.com/nattycoder/soar-edr}{GitHub}}
+    {LimaCharlie, Tines, Windows Server}{08/2024 -- 09/2024}
+    \resumeItemListStart
+        \resumeItem{Designed a cloud-native SOAR solution, estimating 50\% infrastructure cost reduction}
+        \resumeItem{Deployed EDR agents on 2 Windows servers with 100\% coverage}
+        \resumeItem{Created an alert system processing 10+ daily security events}
+    \resumeItemListEnd
+  \resumeSubheading
+    {Cybersecurity Home Lab}{\href{https://github.com/nattycoder/cybersecurity-homelab}{GitHub}}
+    {Virtualization, Blue and Red Teaming, Networking}{01/2024 -- 04/2024}
+    \resumeItemListStart
+        \resumeItem{Built a lab environment simulating 5 distinct network segments}
+        \resumeItem{Executed 4+ offensive scenarios with corresponding defensive strategies}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+\section{Leadership}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Google Developer Student Club}{NSET, Tunisia}
+    {Cybersecurity Tech Lead}{09/2023 -- 05/2024}
+    \resumeItemListStart
+        \resumeItem{Led 10+ cybersecurity workshops, training 45+ students}
+        \resumeItem{Organized CTF competitions, increasing department membership by 50\%}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+\section{Skills and Certifications}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Network Security}: Firewalls, IDS/IPS, VPNs, Encryption, Network Infrastructure 
+    \item \textbf{Virtualization \& Cloud}: VirtualBox, ProxmoxVE, Docker, AWS
+    \item \textbf{Programming}: Python, Bash, PowerShell
+    \item \textbf{Languages}: Arabic (native), English (fluent), French (fluent), German (Beginner)
+    \item \textbf{Certifications}: Cisco CCNA (1 \& 2), Security Blue Team Level 1 (BTL1)
+\end{itemize}
+
+\section{Additional Information}
+\begin{itemize}[leftmargin=*]
+    \item Published technical blog on building a cybersecurity home lab
+    \item Active contributor to open-source networking and security projects
+    \item Participated in 1-week international exchange program at KNUST, Ghana
+\end{itemize}
+
+\end{document}
