@@ -18,9 +18,9 @@ You can view my resume in the following formats:
 
 - Network Security
 - SIEM Implementation
-- Virtualization & Cloud Technologies
+- Virtualization Technologies
 - Programming (Python, Bash, PowerShell)
-- And more! Check out my full resume for details.
+- And more! Check out my portfolio overview or full resume for details.
 
 ## 📬 Contact
 
