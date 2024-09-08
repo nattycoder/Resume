@@ -13,8 +13,8 @@ You can view my resume in the following formats:
 You can view my certifications in Networking and Cybersecurity in here:
 - [CCNAv7 - Introduction to Networks](./Certifications/CCNA_Introduction_to_Networks.pdf)
 - [CCNAv7 - Switchin, Routing and Wireless Essentials](./Certifications/CCNA_Switching_Routing_and_Wireless_Essentials.pdf)
-- [Security Blue Team - Introduction to Digital Forensics](./Certifications/Introduction to Digital Forensics-course.pdf)
-- [Security Blue Team - Introduction to Network Analysis](./Certifications/Introduction to Network Analysis-course.pdf)
+- [Security Blue Team - Introduction to Digital Forensics](./Certifications/Introduction_to_Digital_Forensics-course.pdf)
+- [Security Blue Team - Introduction to Network Analysis](./Certifications/Introduction_to_Network_Analysis-course.pdf)
 
 ## 🚀 Quick Links
 
