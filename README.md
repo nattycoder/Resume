@@ -8,6 +8,14 @@ You can view my resume in the following formats:
 - [PDF Version](./Files/resume.pdf)
 - [LaTeX Source](./Files/resume.tex)
 
+## 📄 Certifications
+
+You can view my certifications in Networking and Cybersecurity in here:
+- [CCNAv7 - Introduction to Networks](./certifications/CCNA_Introduction_to_Networks.pdf)
+- [CCNAv7 - Switchin, Routing and Wireless Essentials](./certifications/CCNA_Switching_Routing_and_Wireless_Essentials.pdf)
+- [Security Blue Team - Introduction to Digital Forensics](./certifications/Introduction to Digital Forensics-course.pdf)
+- [Security Blue Team - Introduction to Network Analysis](./certifications/Introduction to Network Analysis-course.pdf)
+
 ## 🚀 Quick Links
 
 - [LinkedIn](https://www.linkedin.com/in/alaaeddineayedi/)
