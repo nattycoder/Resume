@@ -29,8 +29,8 @@ You can view my certifications in Networking and Cybersecurity in here:
 ## 📄 Leadership / Volunteer Work
 
 You can view my experiences in my School's Students Clubs in here:
-- [Google Developer Students Club Cybersecurity Tech Lead](./Leadership/GDSC_Cybersecurity_Tech_Lead.pdf) 
-- [Tunisian Space Association Finance Manager](./Leadership/TUNSA_Finance_Manager.pdf)
+- [Google Developer Students Club Cybersecurity Tech Lead](./Leadership/GDSC_Cybersecurity_Tech_Lead.webp) 
+- [Tunisian Space Association Finance Manager](./Leadership/TUNSA_Finance_Manager.jpg)
 
 
 
