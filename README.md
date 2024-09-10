@@ -12,7 +12,7 @@ You can view my resume in the following formats:
 ## 📄 Internships / Apprenticeships
 
 I had the opportunity to be an intern in the following positions:
-- Network Security Intern [@Spark IT](https://www.linkedin.com/company/spark-it-france/posts/?feedView=all) - Summer 2024 ([certificate of completion](./Certifications/Network_Security_Internship.pdf)
+- Network Security Intern [@Spark IT](https://www.linkedin.com/company/spark-it-france/posts/?feedView=all) - Summer 2024 ([certificate of completion](./Certifications/Network_Security_Internship.pdf))
 - Aeronautics Research & Development Intern [@TechInventors TN](https://www.linkedin.com/company/techinventorsgrp/posts/?feedView=all) - Summer 2023
 - Automotive Testing Intern [@Primatec Engineering](https://www.linkedin.com/company/primatec-engineering/posts/?feedView=all) - Spring 2022
 - Novice Python Machine Learning Intern [@Djagora FabLab](https://www.linkedin.com/company/djagora-fablab/) - Summer 2021
