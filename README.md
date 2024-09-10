@@ -22,7 +22,7 @@ I had the opportunity to be an intern in the following positions:
 
 You can view my certifications in Networking and Cybersecurity in here:
 - [CCNAv7 - Introduction to Networks](./Certifications/CCNA_Introduction_to_Networks.pdf)
-- [CCNAv7 - Switchin, Routing and Wireless Essentials](./Certifications/CCNA_Switching_Routing_and_Wireless_Essentials.pdf)
+- [CCNAv7 - Switching, Routing and Wireless Essentials](./Certifications/CCNA_Switching_Routing_and_Wireless_Essentials.pdf)
 - [Security Blue Team - Introduction to Digital Forensics](./Certifications/Introduction_to_Digital_Forensics-course.pdf)
 - [Security Blue Team - Introduction to Network Analysis](./Certifications/Introduction_to_Network_Analysis-course.pdf)
 - [IPOC Participant - 2nd Place Winner](./Certifications/IPOC.pdf)
