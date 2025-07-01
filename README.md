@@ -3,7 +3,7 @@ Welcome to my GitHub resume repository! This repository contains my professional
 
 ## 📄 Resume
 You can view my resume in the following formats:
-- [PDF Version](./Files/Alaa-Eddine-Ayedi-Resume-Copy.pdf)
+- [PDF Version](./Files/Alaa-Eddine-Ayedi-Resume.pdf)
 
 ## 📄 Internships / Apprenticeships
 I had the opportunity to be an intern in the following positions:
